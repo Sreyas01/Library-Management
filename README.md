@@ -1,27 +1,43 @@
-# Library-Management
+q# Library-Management
 ### AIM:
 To study the problem statement, SRS document and draw all the UML diagrams of a Library Management System.
-### PROBLEM STATEMENT:
-To create Library Management System software that will meet the needs of the applicant
-and help them to registering and buy the book for the Library, modification in database and
-cancellation for the registered project.
-### OVERALL DESCRIPTION:
-The Library Management System is an integrated system that has four modules as part of
-it. The four modules are
-#### Registration for Membership:
-In this module, the user can select the books to register for the library,Modification in the book
-database, cancelling the books.
-#### Book details:
-In this module the user can search for the books by giving bookie in the project and selecting
-the semester for the book.
-Maintaining Book Details:
-In this module the administrator can change the data’s like the semester, address, books can be
-done.
-#### Cancellation for the Book:
-In this module the user can cancel their name which is registered for the Book.
-### SOFTWARE REQUIRMENTS:
-Star UML
+
+### PROCEDURE:
+Procedure-:
+
+1.Define System Requirements: Outline the functional and non-functional requirements, such as user authentication and transaction processing.
+
+2.Identify Key Actors and Use Cases: Determine actors and define their interactions.
+
+3.Design the System Architecture: Break down the system into components
+
+4.Create UML Diagrams: Develop use case, class, sequence, and activity diagrams based on the system design.
+
+5.Test and Validate: Perform testing to ensure the system meets functional requirements and security standards.
 ### UML Diagrams:
+## CLASS DIAGRAM:
+
+<img width="910" height="689" alt="image" src="https://github.com/user-attachments/assets/493d9c29-9aed-420b-957b-64f5e3baa0e9" />
+
+## USECASE DIAGRAM:
+
+<img width="604" height="732" alt="image" src="https://github.com/user-attachments/assets/f936d2aa-5fd1-4a22-82da-0d2359a140d0" />
+
+## PACKAGE DIAGRAM:
+
+<img width="918" height="761" alt="image" src="https://github.com/user-attachments/assets/1444c6ef-0c32-4be6-b2b9-c4230e448cfe" />
+
+## ACTIVITY DIAGRAM:
+
+<img width="1052" height="778" alt="image" src="https://github.com/user-attachments/assets/29920e9f-d970-487e-af4f-797e46236750" />
+
+## COMMUNICATION DIAGRAM:
+
+<img width="952" height="702" alt="image" src="https://github.com/user-attachments/assets/50211aa7-59c4-4a0f-9f48-2594f58c4dcc" />
+
+## SEQUENCE DIAGRAM:
+
+<img width="1098" height="796" alt="image" src="https://github.com/user-attachments/assets/d9b44989-7ad5-4f55-869b-9ada6f8bc6ce" />
 
 ### RESULT:
 Thus the Library management system project was executed and the output was verified.
